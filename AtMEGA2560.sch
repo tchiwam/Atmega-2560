@@ -2377,4 +2377,12 @@ Text Label 2450 1350 0    50   ~ 0
 XTAL1
 Text Label 2550 1650 0    50   ~ 0
 XTAL2
+Text Label 8100 3300 0    50   ~ 0
+USB1+
+Text Label 8100 3400 0    50   ~ 0
+USB1-
+Text Label 7100 3300 0    50   ~ 0
+USB2+
+Text Label 7100 3400 0    50   ~ 0
+USB2-
 $EndSCHEMATC
