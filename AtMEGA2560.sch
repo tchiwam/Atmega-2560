@@ -2385,4 +2385,10 @@ Text Label 7100 3300 0    50   ~ 0
 USB2+
 Text Label 7100 3400 0    50   ~ 0
 USB2-
+Text Label 7100 3100 1    50   ~ 0
+VBUS
+Text Label 7200 4600 2    50   ~ 0
+USBGND
+Text Label 6650 4150 1    50   ~ 0
+USBSHIELD
 $EndSCHEMATC
